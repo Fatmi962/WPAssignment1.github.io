@@ -1,0 +1,36 @@
+  body{
+  background-image: url('../images/Wallpaper.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+ }
+ #input {
+  width: 100%;
+}
+#dd{
+  margin: auto;
+  width: 100%;
+}
+ .ss{
+  font-family:'Times New Roman', Times, serif;
+  font-style: normal;
+  font-size: 32px;
+}
+
+ .center{
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  margin-top: -50px;
+  margin-left: -50px;
+  width: 400px;
+  height: 100px;
+}​
+ .centerx{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+  width: 400px;
+  height: 100px;
+}​
